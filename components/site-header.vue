@@ -5,7 +5,13 @@
         <NuxtLink to="/">Index</NuxtLink>
       </li>
       <li>
+        <NuxtLink to="/apps">Apps</NuxtLink>
+      </li>
+      <li>
         <NuxtLink to="/about">About</NuxtLink>
+      </li>
+      <li>
+        <NuxtLink to="/custom">Custom</NuxtLink>
       </li>
     </ul>
   </div>
