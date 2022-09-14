@@ -1,6 +1,8 @@
 <template>
   <div class="wrapper">
-    カスタム
+    <NuxtLink to="/">Indexへ戻る</NuxtLink>
+    <hr/>
+    <slot />
   </div>
 </template>
 
