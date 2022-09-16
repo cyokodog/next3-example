@@ -8,6 +8,9 @@
       <li>
         <NuxtLink to="/apps/users-error">Users（API Error）</NuxtLink>
       </li>
+      <li>
+        <NuxtLink to="/apps/counter">Counter</NuxtLink>
+      </li>
     </ul>
   </div>
 </template>
