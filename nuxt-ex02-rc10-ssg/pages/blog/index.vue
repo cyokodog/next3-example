@@ -1,5 +1,8 @@
 <script setup>
-  const { data: posts } = await useFetch('https://jsonplaceholder.typicode.com/posts')
+definePageMeta({
+  layout: 'blog'
+});
+const { data: posts } = await useFetch('https://jsonplaceholder.typicode.com/posts')
 </script>
 
 <template>
