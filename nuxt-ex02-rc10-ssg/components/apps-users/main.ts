@@ -18,7 +18,12 @@ export default defineComponent({
       params: searchParams,
       initialCache: false,
     };
-    // const { data: users, refresh, pending, error } = await useFetch('/api/users', fetchOptions);
+    // const {
+    //   data: users,
+    //   refresh,
+    //   pending,
+    //   error,
+    // } = await useFetch("/api/users", fetchOptions);
     const {
       data: users,
       pending,

@@ -5,6 +5,9 @@
         <NuxtLink to="/">Index</NuxtLink>
       </li>
       <li>
+        <NuxtLink to="/blog">Blog</NuxtLink>
+      </li>
+      <li>
         <NuxtLink to="/apps">Apps</NuxtLink>
       </li>
       <li>
